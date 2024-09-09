@@ -5,7 +5,7 @@
 # 1-Encryption
 
 * Open "encrpyt.py" file in your editor.
-* Enter your text to encrypt in "kelime" variable and don't use spaces.
+* Enter your text to encrypt in "kelime" variable and don't use spaces or numbers or punctuations.
 * Enter your key to "key" variable and key must be between 1 and 25
 ### NOTE: key must be integer
 
@@ -15,5 +15,10 @@
 * Enter your encrypted text in "kelime" variable and don't use spaces.
 * The key end unencrypted text will be shown on your terminal.
 
-# Example of Brute Force
-<img width=600px src="decrypt.png" />
+# Examples
+
+### Example of brute force
+<img width=400px src="images/decrypt.png" /> 
+
+### Example of encryption
+<img width=600px src="images/enc.png" />

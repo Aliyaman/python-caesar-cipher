@@ -34,5 +34,5 @@ brute(enc_msg)
 
 for a in mesaj:
   sıra = mesaj.index(a)+1
-  print(f"Mesaj: {a}, key={sıra}")
+  print(f"Text: {a}, key={sıra}")
  

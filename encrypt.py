@@ -18,4 +18,5 @@ for i in harfler:
   k = int(ascii_letters.index(i))
   caesar(k,key)
 
-print(f"şifreli mesaj: {"".join(enc_msg)}") 
+print(f"Original text is: {kelime}")
+print(f"Encrypted text is: {"".join(enc_msg)}") 
